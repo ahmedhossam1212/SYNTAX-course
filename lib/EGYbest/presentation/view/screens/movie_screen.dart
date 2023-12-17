@@ -3,8 +3,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:syntax_course/EGYbest/presentation/manager/cubit/cubit.dart';
 import 'package:syntax_course/EGYbest/presentation/manager/states/state.dart';
 import 'package:syntax_course/EGYbest/presentation/view/widget/movie_item.dart';
-import 'package:syntax_course/EGYbest/utils/app_string.dart';
-import 'package:syntax_course/EGYbest/utils/colors.dart';
+import 'package:syntax_course/EGYbest/core/utils/app_string.dart';
+import 'package:syntax_course/EGYbest/core/utils/colors.dart';
 
 class MovieScreen extends StatelessWidget {
   const MovieScreen({super.key});

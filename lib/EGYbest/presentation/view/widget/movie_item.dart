@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:syntax_course/EGYbest/core/utils/colors.dart';
 import 'package:syntax_course/EGYbest/models/model.dart';
-import 'package:syntax_course/EGYbest/utils/colors.dart';
 
 Widget buildMovieItem(Results model) => Material(
       clipBehavior: Clip.hardEdge,

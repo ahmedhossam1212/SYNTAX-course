@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:syntax_course/Bmi/result.dart';
-import 'package:syntax_course/EGYbest/utils/app_routs.dart';
-import 'package:syntax_course/EGYbest/utils/colors.dart';
+import 'package:syntax_course/EGYbest/config/routes/app_routs.dart';
+import 'package:syntax_course/EGYbest/core/utils/colors.dart';
 
 class CalculationScreen extends StatefulWidget {
   const CalculationScreen({super.key});

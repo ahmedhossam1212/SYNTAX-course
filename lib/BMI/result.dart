@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:syntax_course/EGYbest/utils/colors.dart';
+import 'package:syntax_course/EGYbest/core/utils/colors.dart';
 
 class ResultScreen extends StatelessWidget {
   const ResultScreen(
