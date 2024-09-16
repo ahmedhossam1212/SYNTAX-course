@@ -1,16 +1,41 @@
 # syntax_course
 
-A new Flutter project.
+Course projects & Flutter roadmap
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Dart :
+  > Playlists:
+              - https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG
+              - https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI
+> Books:
+        - Dart Apprentice: Beyond the Basics
+        - Data Structures & Algorithms in Dart
+        - The Art of Dart: Master the Dart Programming Language
+> Tools:
+        DartPad => https://dartpad.dev/?null_safety=true
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# OOP 
+  > Playlists:
+              - https://youtu.be/jz8JVznL2HA?si=_6b2fMVI-C_1N9MP
+              - https://youtu.be/e8o481vejaQ?si=Vfu5J6D6QD8bexfe
+              - https://youtu.be/tJ7C50l1aEQ?si=JSvWBA33TEeCsXHq
+  > Books:
+          - Head First Object-Oriented Analysis and Design
+          - Dart Apprentice, Beyond the Basics
+
+
+# SOLID principles
+  > Playlists:
+              - https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf
+  > Books:
+          - SOLID, The Software Design and Architecture Handbook       
+
+
+# Flutter
+
+
+
+
