@@ -51,11 +51,11 @@ Course projects & Flutter roadmap
 
 
   > Tools: \
-            - Android SDK  => https://developer.android.com/studio_gl=1*1kk8zk5*_up*MQ..&gclid=CjwKCAjwl63BhBWEiwApN6_kg4FwBPY33faTfVRSi0ryhsnKHSy7rx8uV1w2dxsebbjBGASnvthoCjcwQAvD_BwE&gclsrc=aw.ds  \
+            - Android SDK  > https://developer.android.com/studio_gl=1*1kk8zk5*_up*MQ..&gclid=CjwKCAjwl63BhBWEiwApN6_kg4FwBPY33faTfVRSi0ryhsnKHSy7rx8uV1w2dxsebbjBGASnvthoCjcwQAvD_BwE&gclsrc=aw.ds  \
 
-            - Flutter SDK => https://docs.flutter.dev/get-started/install \
+            - Flutter SDK > https://docs.flutter.dev/get-started/install 
             
-            - Xcode => app store
+            - Xcode > app store
 
 
 # Clean architecture & Clean code 
