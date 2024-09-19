@@ -56,7 +56,7 @@ Course projects & Flutter roadmap
 
   > Books: \
           - lean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)  \
-          - Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin  \
+          - Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin  
 
 
 
