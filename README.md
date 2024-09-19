@@ -21,9 +21,9 @@ Course projects & Flutter roadmap
 
 # OOP 
   > Playlists: \
-              - https://youtu.be/jz8JVznL2HA?si=_6b2fMVI-C_1N9MP \
-              - https://youtu.be/e8o481vejaQ?si=Vfu5J6D6QD8bexfe \
-              - https://youtu.be/tJ7C50l1aEQ?si=JSvWBA33TEeCsXHq 
+              - [Omar Ahmed](https://youtu.be/jz8JVznL2HA?si=_6b2fMVI-C_1N9MP) \
+              -[Tharwat Samy - ثروت سامي](https://youtu.be/e8o481vejaQ?si=Vfu5J6D6QD8bexfe) \
+              - [Computer Science](https://youtu.be/tJ7C50l1aEQ?si=JSvWBA33TEeCsXHq)
 
   > Books: \
           - Head First Object-Oriented Analysis and Design\
@@ -42,7 +42,7 @@ Course projects & Flutter roadmap
 
 # Flutter
   > Playlists: \
-              -[Tharwat Samy - ثروت سامي ](https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy)  \
+              -[Tharwat Samy - ثروت سامي](https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy)  \
               -[Wael abo hamza](https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7)  \
               -[Omar Ahmed](https://youtu.be/rpT7vDbNM3M?si=Llxvt9bARTIRnADf)
 
