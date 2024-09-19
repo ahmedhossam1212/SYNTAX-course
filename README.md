@@ -53,7 +53,7 @@ Course projects & Flutter roadmap
   > Tools: \
             - Android SDK  > https://developer.android.com/studio \
             - Flutter SDK > https://docs.flutter.dev/get-started/install \
-            - Xcode > app store
+            - Xcode > [app store](https://developer.apple.com/xcode/)
 
 
 # Clean architecture & Clean code 
