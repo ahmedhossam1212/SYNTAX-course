@@ -43,8 +43,24 @@ Course projects & Flutter roadmap
 # Flutter
   > Playlists: \
               - https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy  -  ثروت سامي | Tharwat Samy \
-              -  \
+              - https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7 -  Wael abo hamza  \
+              - https://youtu.be/rpT7vDbNM3M?si=Llxvt9bARTIRnADf -  Omar Ahmed  \
 
+  > Books: \
+          - Flutter cookbook
+
+# Clean architecture & Clean code 
+   > Playlists: \
+          - https://youtu.be/WnoZa933kq0?si=HARH8WXK4tJZ1sXm \
+          - https://youtu.be/q7nFu7I6pRU?si=KJUMHT1tb4z1KACX
+
+  > Books: \
+          - lean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)  \
+          - Clean Code - A Handbook of Agile Software Craftsmanship by Robert C. Martin  \
+
+
+
+ 
 
 
 
