@@ -51,7 +51,7 @@ Course projects & Flutter roadmap
 
 
   > Tools: \
-            - Android SDK  => https://developer.android.com/studio?_gl=1*1kk8zk5*_up*MQ..&gclid=CjwKCAjwl6-3BhBWEiwApN6_kg4FwBPY33faTfVRSi0ryhsnKHSy7rx8uV1w2dxse-bbjBGASnvt-hoCjcwQAvD_BwE&gclsrc=aw.ds  \
+            - Android SDK  => https://developer.android.com/studio_gl=1*1kk8zk5*_up*MQ..&gclid=CjwKCAjwl63BhBWEiwApN6_kg4FwBPY33faTfVRSi0ryhsnKHSy7rx8uV1w2dxsebbjBGASnvthoCjcwQAvD_BwE&gclsrc=aw.ds  \
 
             - Flutter SDK => https://docs.flutter.dev/get-started/install \
             
