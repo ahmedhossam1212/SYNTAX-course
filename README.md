@@ -51,8 +51,8 @@ Course projects & Flutter roadmap
 
 
   > Tools: \
-            - Android SDK  > https://developer.android.com/studio 
-            - Flutter SDK > https://docs.flutter.dev/get-started/install
+            - Android SDK  > https://developer.android.com/studio \
+            - Flutter SDK > https://docs.flutter.dev/get-started/install \
             - Xcode > app store
 
 
