@@ -41,6 +41,9 @@ Course projects & Flutter roadmap
 
 
 # Flutter
+  > Playlists: \
+              - https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy  -  ثروت سامي | Tharwat Samy \
+              -  \
 
 
 
