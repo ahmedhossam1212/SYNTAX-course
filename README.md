@@ -7,8 +7,8 @@ Course projects & Flutter roadmap
 
 # Dart : 
   > Playlists: \
-              - https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG \
-              - https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI 
+              - [Wael abo hamza](https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG) \
+              - [Angela Yu](https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI)
 
 > Books: \
         - Dart Apprentice: Beyond the Basics \
@@ -16,7 +16,7 @@ Course projects & Flutter roadmap
         - The Art of Dart: Master the Dart Programming Language 
 
 > Tools: \
-        DartPad => https://dartpad.dev/?null_safety=true 
+        [DartPad](https://dartpad.dev/?null_safety=true)
 
 
 # OOP 
