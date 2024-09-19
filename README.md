@@ -33,7 +33,7 @@ Course projects & Flutter roadmap
 
 # SOLID principles
   > Playlists: \
-              - https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf 
+              - [Omar Ahmed](https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf)
 
   > Books: \
           - SOLID, The Software Design and Architecture Handbook    
@@ -51,9 +51,9 @@ Course projects & Flutter roadmap
 
 
   > Tools: \
-            - Android SDK  > https://developer.android.com/studio \
-            - Flutter SDK > https://docs.flutter.dev/get-started/install \
-            - Xcode > [app store](https://developer.apple.com/xcode/)
+            - [Android SDK](https://developer.android.com/studio) \
+            - [Flutter SDK](https://docs.flutter.dev/get-started/install) \
+            - [Xcode](https://developer.apple.com/xcode/)
 
 
 # Clean architecture & Clean code 
