@@ -42,9 +42,9 @@ Course projects & Flutter roadmap
 
 # Flutter
   > Playlists: \
-              - https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy  -  ثروت سامي | Tharwat Samy \
-              - https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7 -  Wael abo hamza  \
-              - https://youtu.be/rpT7vDbNM3M?si=Llxvt9bARTIRnADf -  Omar Ahmed  
+              -[Tharwat Samy - ثروت سامي ](https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy)
+              -[Wael abo hamza]([https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy](https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7))
+              -[Omar Ahmed]([https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy](https://youtu.be/rpT7vDbNM3M?si=Llxvt9bARTIRnADf))
 
   > Books: \
              - Flutter cookbook
