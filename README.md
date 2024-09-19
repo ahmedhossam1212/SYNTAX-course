@@ -1,6 +1,6 @@
 # syntax_course
 
-Course projects & Flutter roadmap\
+Course projects & Flutter roadmap
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Course projects & Flutter roadmap\
         - Data Structures & Algorithms in Dart \
         - The Art of Dart: Master the Dart Programming Language \
 > Tools: \
-        DartPad => https://dartpad.dev/?null_safety=true \
+        DartPad => https://dartpad.dev/?null_safety=true 
 
 
 # OOP 
@@ -24,14 +24,14 @@ Course projects & Flutter roadmap\
               - https://youtu.be/tJ7C50l1aEQ?si=JSvWBA33TEeCsXHq \
   > Books: \
           - Head First Object-Oriented Analysis and Design\
-          - Dart Apprentice, Beyond the Basics\
+          - Dart Apprentice, Beyond the Basics
 
 
 # SOLID principles
   > Playlists: \
               - https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf \
   > Books: \
-          - SOLID, The Software Design and Architecture Handbook   \    
+          - SOLID, The Software Design and Architecture Handbook    
 
 
 # Flutter
