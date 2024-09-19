@@ -58,8 +58,8 @@ Course projects & Flutter roadmap
 
 # Clean architecture & Clean code 
    > Playlists: \
-          - https://youtu.be/WnoZa933kq0?si=HARH8WXK4tJZ1sXm \
-          - https://youtu.be/q7nFu7I6pRU?si=KJUMHT1tb4z1KACX
+          - [Clean code](https://youtu.be/WnoZa933kq0?si=HARH8WXK4tJZ1sXm) \
+          - [Clean architecture](https://youtu.be/q7nFu7I6pRU?si=KJUMHT1tb4z1KACX)
 
   > Books: \
           - lean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series)  \
