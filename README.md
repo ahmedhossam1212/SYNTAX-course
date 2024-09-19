@@ -1,20 +1,20 @@
-# syntax_course
+# syntax_course\
 
-Course projects & Flutter roadmap
+Course projects & Flutter roadmap\
 
-## Getting Started
+## Getting Started\
 
 
-# Dart :
-  > Playlists:
-              - https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG
-              - https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI
-> Books:
-        - Dart Apprentice: Beyond the Basics
-        - Data Structures & Algorithms in Dart
-        - The Art of Dart: Master the Dart Programming Language
-> Tools:
-        DartPad => https://dartpad.dev/?null_safety=true
+# Dart : \
+  > Playlists:\
+              - https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG\
+              - https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI\
+> Books:\
+        - Dart Apprentice: Beyond the Basics\
+        - Data Structures & Algorithms in Dart\
+        - The Art of Dart: Master the Dart Programming Language\
+> Tools:\
+        DartPad => https://dartpad.dev/?null_safety=true\
 
 
 # OOP 
@@ -23,18 +23,18 @@ Course projects & Flutter roadmap
               - https://youtu.be/e8o481vejaQ?si=Vfu5J6D6QD8bexfe \
               - https://youtu.be/tJ7C50l1aEQ?si=JSvWBA33TEeCsXHq \
   > Books:
-          - Head First Object-Oriented Analysis and Design
-          - Dart Apprentice, Beyond the Basics
+          - Head First Object-Oriented Analysis and Design\
+          - Dart Apprentice, Beyond the Basics\
 
 
-# SOLID principles
-  > Playlists:
-              - https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf
-  > Books:
-          - SOLID, The Software Design and Architecture Handbook       
+# SOLID principles\
+  > Playlists:\
+              - https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf\
+  > Books:\
+          - SOLID, The Software Design and Architecture Handbook   \    
 
 
-# Flutter
+# Flutter\
 
 
 
