@@ -47,7 +47,16 @@ Course projects & Flutter roadmap
               - https://youtu.be/rpT7vDbNM3M?si=Llxvt9bARTIRnADf -  Omar Ahmed  \
 
   > Books: \
-          - Flutter cookbook
+             - Flutter cookbook
+
+
+  > Tools: \
+            - Android SDK  => https://developer.android.com/studio?_gl=1*1kk8zk5*_up*MQ..&gclid=CjwKCAjwl6-3BhBWEiwApN6_kg4FwBPY33faTfVRSi0ryhsnKHSy7rx8uV1w2dxse-bbjBGASnvt-hoCjcwQAvD_BwE&gclsrc=aw.ds  \
+
+            - Flutter SDK => https://docs.flutter.dev/get-started/install \
+            
+            - Xcode => app store
+
 
 # Clean architecture & Clean code 
    > Playlists: \
