@@ -67,7 +67,8 @@ Course projects & Flutter roadmap
  
 
 # Projects 
-  > Advanced: \
+  > Advanced:
+
    - [Food delivery](https://www.youtube.com/watch?v=7dAt-JMSCVQ)
    - [Amazon clone](https://www.youtube.com/watch?v=O3nmP-lZAdg)
 
