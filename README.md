@@ -73,7 +73,7 @@ Course projects & Flutter roadmap
      - [E-Commerce App](https://www.youtube.com/watch?v=YQip3CtLXFU&list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe)
 
   > Midlevel: \
-     - [ChatApp](https://youtu.be/k7gM7OIZf0Y?si=t7XHlQj-qgydEjN9)
+     - [ChatApp](https://youtu.be/k7gM7OIZf0Y?si=t7XHlQj-qgydEjN9) \
      - [NewsApp](https://youtu.be/qS-3vbW7klY?si=AOkMWSv1VUP6bHmy)
     
 
