@@ -72,7 +72,9 @@ Course projects & Flutter roadmap
      - [Amazon clone](https://www.youtube.com/watch?v=O3nmP-lZAdg) \
      - [E-Commerce App](https://www.youtube.com/watch?v=YQip3CtLXFU&list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe)
 
-  > Midlevel:
+  > Midlevel: \
+     - [ChatApp](https://youtu.be/k7gM7OIZf0Y?si=t7XHlQj-qgydEjN9)
+     - [NewsApp](https://youtu.be/qS-3vbW7klY?si=AOkMWSv1VUP6bHmy)
     
 
   > Entry level : \
