@@ -76,7 +76,7 @@ Course projects & Flutter roadmap
     
 
   > Entry level :
-     - [BMI](https://youtu.be/txmYhAvTWV0?si=Xff1cKzG-0-3WvFV)
+     - [BMI](https://youtu.be/txmYhAvTWV0?si=Xff1cKzG-0-3WvFV) \
      - [Messenger screen](https://youtu.be/j7NmhSsvnGA?si=bMSzYAdKjFZLS8TC)
 
  
