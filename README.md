@@ -72,9 +72,12 @@ Course projects & Flutter roadmap
      - [Amazon clone](https://www.youtube.com/watch?v=O3nmP-lZAdg) \
      - [E-Commerce App](https://www.youtube.com/watch?v=YQip3CtLXFU&list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe)
 
-  > Midlevel: 
+  > Midlevel:
+    
 
-  > Entry level : 
+  > Entry level :
+     - [BMI](https://youtu.be/txmYhAvTWV0?si=Xff1cKzG-0-3WvFV)
+     - [Messenger screen](https://youtu.be/j7NmhSsvnGA?si=bMSzYAdKjFZLS8TC)
 
  
 
