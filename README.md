@@ -1,9 +1,9 @@
 # syntax_course
 
-Course projects & Flutter roadmap
 
 
- [<img src="https://solguruz.com/_next/image/?url=https%3A%2F%2Fblog.solguruz.com%2Fwp-content%2Fuploads%2F2023%2F11%2FFlutter-for-Hybrid-Apps-Why-Flutter-is-the-Best-Platform-to-Make-Hybrid-Apps.png&w=1080&q=75" height="80">]()
+
+ [<img src="https://solguruz.com/_next/image/?url=https%3A%2F%2Fblog.solguruz.com%2Fwp-content%2Fuploads%2F2023%2F11%2FFlutter-for-Hybrid-Apps-Why-Flutter-is-the-Best-Platform-to-Make-Hybrid-Apps.png&w=1080&q=75">]()
 
 ## Getting Started
 
