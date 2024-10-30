@@ -18,7 +18,7 @@ Course projects & Flutter roadmap
         [DartPad](https://dartpad.dev/?null_safety=true)
 
 
-# OOP :  [<img src="https://www.shutterstock.com/image-vector/oop-objectoriented-programming-based-on-concept-2049550799" height="80">]()
+# OOP :  
   > Playlists: \
               - [Omar Ahmed](https://youtu.be/jz8JVznL2HA?si=_6b2fMVI-C_1N9MP) \
               -[Tharwat Samy - ثروت سامي](https://youtu.be/e8o481vejaQ?si=Vfu5J6D6QD8bexfe) \
@@ -30,7 +30,7 @@ Course projects & Flutter roadmap
 
 
 
-# SOLID principles
+# SOLID principles :
   > Playlists: \
               - [Omar Ahmed](https://youtu.be/pKo7S70WiKY?si=iE9mjX_HiFaqXwwf)
 
@@ -39,7 +39,7 @@ Course projects & Flutter roadmap
 
 
 
-# Flutter
+# Flutter :   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="80">]()
   > Playlists: \
               -[Tharwat Samy - ثروت سامي](https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy)  \
               -[Wael abo hamza](https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7)  \
