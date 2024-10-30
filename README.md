@@ -4,7 +4,7 @@ Course projects & Flutter roadmap
 
 ## Getting Started
 
-            [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosear.ch%2Flogos%2Fdart%2Findex.html&psig=AOvVaw2IJn2HuyjYz4GqmDU69IlI&ust=1730384344155000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCqzZOmtokDFQAAAAAdAAAAABAQ" height="30">]()
+            [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="30">]()
 " height="30">]()
 # Dart : 
   > Playlists: \
