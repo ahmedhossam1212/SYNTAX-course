@@ -2,9 +2,12 @@
 
 Course projects & Flutter roadmap
 
+
+ [<img src="https://solguruz.com/_next/image/?url=https%3A%2F%2Fblog.solguruz.com%2Fwp-content%2Fuploads%2F2023%2F11%2FFlutter-for-Hybrid-Apps-Why-Flutter-is-the-Best-Platform-to-Make-Hybrid-Apps.png&w=1080&q=75" height="80">]()
+
 ## Getting Started
 
-# Dart :             [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="80">]()
+# Dart :             
   > Playlists: \
               - [Wael abo hamza](https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG) \
               - [Angela Yu](https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI)
@@ -39,7 +42,7 @@ Course projects & Flutter roadmap
 
 
 
-# Flutter :   [<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Google-flutter-logo.svg" height="80">]()
+# Flutter :  
   > Playlists: \
               -[Tharwat Samy - ثروت سامي](https://youtu.be/AuzjFFjirBc?si=M6t05gdoAn-SciZy)  \
               -[Wael abo hamza](https://youtu.be/6bSP4vazmyw?si=zGdydKYF7iSoW1j7)  \
