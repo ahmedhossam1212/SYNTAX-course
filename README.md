@@ -4,7 +4,7 @@ Course projects & Flutter roadmap
 
 ## Getting Started
 
-# Dart :             [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="50">]()
+# Dart :             [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="80">]()
   > Playlists: \
               - [Wael abo hamza](https://youtu.be/kgN7veo9tC0?si=LIoGso75ziYB0VhG) \
               - [Angela Yu](https://youtu.be/lzNqLROLRRk?si=ULnOBQvkMpCNrxVI)
